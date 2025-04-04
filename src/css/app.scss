@@ -1,0 +1,75 @@
+@import "zaui-tokens/variables.css";
+
+  .home-page{
+    padding: 16px 16px 96px 16px;
+  }
+  .page {
+    padding: 16px 16px 96px 16px;
+  }
+
+  .header{
+    background:var(--section-bg-color);
+  }
+  
+  .page-news{
+    padding: 8px 16px 96px 16px;
+    background:var(--section-bg-color);
+  }
+  
+  .section-container {
+    padding: 1.6em;
+    background: var(--section-bg-color);
+    border-radius: 0.8em;
+    margin-bottom: 2.4em;
+  }
+
+  .section-container-no-color {
+    padding: 16px;
+    
+    border-radius: 8px;
+    margin-bottom: 24px;
+    margin-top: 24px;
+  }
+  
+  #contact-list{
+    border-radius: 12px;
+    margin: 12px;
+  }
+  
+  :root {
+    --section-bg-color: #ffffff; 
+  }
+  
+  [data-theme="dark"] {
+    --section-bg-color: #333333; 
+  }
+  
+  .zaui-list-item {
+    cursor: pointer;
+  }
+
+  .chat-button-overlay{
+    position: fixed;
+    bottom: 5rem; /* Khoảng cách từ đáy */
+    right: 15px; /* Khoảng cách từ phải */
+    z-index: 9999;
+     
+  }
+  .left-button{
+    position: fixed; 
+    left: 1.5em; 
+    
+  }
+
+  .right-button{
+    position: fixed; 
+    right: 1.5em; 
+  }
+
+  .section-container-product-detail {
+    padding: 1em;
+    background: var(--section-bg-color);
+    border-radius: 0.8em;
+    margin-bottom: 0.4em;
+  }
+  

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Hoa Cưới",
+      "name": "wedding_flowers",
+      "image": "https://via.placeholder.com/150?text=Hoa+Cưới"
+    },
+    {
+      "id": 2,
+      "title": "Lan Hồ Điệp",
+      "name": "orchids",
+      "image": "https://via.placeholder.com/150?text=Lan+Hồ+Điệp"
+    },
+    {
+      "id": 3,
+      "title": "Bó Hoa",
+      "name": "flower_bouquets",
+      "image": "https://via.placeholder.com/150?text=Bó+Hoa"
+    },
+    {
+      "id": 4,
+      "title": "Giỏ Hoa",
+      "name": "flower_baskets",
+      "image": "https://via.placeholder.com/150?text=Giỏ+Hoa"
+    },
+    {
+      "id": 5,
+      "title": "Hoa Chia Buồn",
+      "name": "condolence_flowers",
+      "image": "https://via.placeholder.com/150?text=Hoa+Chia+Buồn"
+    },
+    {
+      "id": 6,
+      "title": "Hoa Chúc Mừng",
+      "name": "congratulatory_flowers",
+      "image": "https://via.placeholder.com/150?text=Hoa+Chúc+Mừng"
+    }
+]

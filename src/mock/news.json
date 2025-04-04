@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Triển lãm hoa quốc tế 2024",
+      "date": "2024-12-15",
+      "content": "Triển lãm hoa quốc tế 2024 sẽ được tổ chức tại Hà Nội với hàng trăm loài hoa độc đáo từ khắp nơi trên thế giới.",
+      "link": "https://hoainternational2024.com",
+      "image": "https://picsum.photos/id/1/200/300"
+    },
+    {
+      "id": 2,
+      "title": "Cách bảo quản hoa tươi lâu ngày",
+      "date": "2024-12-20",
+      "content": "Bài viết chia sẻ các mẹo bảo quản hoa tươi để giữ được vẻ đẹp lâu dài trong những ngày lễ hội.",
+      "link": "https://flowercare.com/preserve-fresh-flowers",
+      "image": "https://picsum.photos/id/2/200/300"
+    },
+    {
+      "id": 3,
+      "title": "Hoa lan hồ điệp giá trị cao dịp Tết",
+      "date": "2024-12-25 14:30",
+      "content": "Lan hồ điệp là một trong những loài hoa được yêu thích nhất trong dịp Tết với ý nghĩa mang lại may mắn và tài lộc.",
+      "link": "https://orchidshop.com/holiday-special",
+      "image": "https://picsum.photos/id/1/200/300"
+    },
+    {
+      "id": 4,
+      "title": "Ý nghĩa của hoa cưới trong văn hóa Việt",
+      "date": "2024-12-30",
+      "content": "Hoa cưới không chỉ là biểu tượng tình yêu mà còn chứa đựng ý nghĩa sâu sắc trong văn hóa cưới hỏi Việt Nam.",
+      "link": "https://weddingflowers.com/vietnamese-culture",
+      "image": "https://picsum.photos/id/1/200/300"
+    },
+    {
+      "id": 5,
+      "title": "Hoa chúc mừng - món quà hoàn hảo dịp lễ",
+      "date": "2024-12-31",
+      "content": "Hoa chúc mừng là món quà tuyệt vời để gửi tặng người thân yêu trong các dịp đặc biệt.",
+      "link": "https://celebrationflowers.com",
+      "image": "https://picsum.photos/id/1/200/300"
+    }
+  ]
+  

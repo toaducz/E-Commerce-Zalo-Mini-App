@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Hoa Cưới Đỏ",
+      "price": 1200000,
+      "source": "https://picsum.photos/id/106/200/300",
+      "category": "wedding_flowers",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Lan Hồ Điệp Tím",
+      "price": 2000000,
+      "source": "https://picsum.photos/id/106/200/300",
+      "category": "orchids",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Bó Hoa Hồng",
+      "price": 800000,
+      "source": "https://picsum.photos/id/152/200/300",
+      "category": "flower_bouquets",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Giỏ Hoa Đa Sắc",
+      "price": 1500000,
+      "source": "https://picsum.photos/id/106/200/300",
+      "category": "flower_baskets",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Hoa Chia Buồn Trắng",
+      "price": 1000000,
+      "source": "https://picsum.photos/id/152/200/300",
+      "category": "condolence_flowers",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Hoa Chúc Mừng Vàng",
+      "price": 1800000,
+      "source": "https://picsum.photos/id/152/200/300",
+      "category": "congratulatory_flowers",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Hoa Cưới Trắng",
+      "price": 1300000,
+      "source": "https://via.placeholder.com/150?text=Hoa+Cưới+Trắng",
+      "category": "wedding_flowers",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Lan Hồ Điệp Vàng",
+      "price": 2200000,
+      "source": "https://picsum.photos/id/152/200/300",
+      "category": "orchids",
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Hoa Cưới Trắng",
+      "price": 1300000,
+      "source": "https://via.placeholder.com/150?text=Hoa+Cưới+Trắng",
+      "category": "wedding_flowers",
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Hoa Lan Hồ Điệp Vàng",
+      "price": 2200000,
+      "source": "https://picsum.photos/id/152/200/300",
+      "category": "orchids",
+      "available": true
+    }
+]
