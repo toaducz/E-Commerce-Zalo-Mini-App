@@ -1,4 +1,4 @@
-Giao diện 1 Mini App bán hàng
+Giao diện Zalo Mini App bán hàng
 
 ![image](https://github.com/user-attachments/assets/c38c1987-52e9-437e-9d6f-ffd190852a7d)
 
