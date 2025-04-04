@@ -1,7 +1,6 @@
 Giao diện 1 Mini App bán hàng
 
-![image](https://github.com/user-attachments/assets/bacfc115-1424-4a08-b1eb-910337ea90de)
-
+![image](https://github.com/user-attachments/assets/c38c1987-52e9-437e-9d6f-ffd190852a7d)
 
 ## Development
 
